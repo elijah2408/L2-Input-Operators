@@ -23,9 +23,11 @@ noun4 = input("Where is the location at?")
 
 noun5 = input("Why was there a huge altercation between the two?")
               
-noun6 = input("why were they fighting at a mcdonalds")
+noun6 = input("why were they fighting at a mcdonalds?")
 
-noun7 = input("")
+noun7 = input("why did lebron kill his old bodygurad??")
+
+noun8 = input("")
 
 
 
